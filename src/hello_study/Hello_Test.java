@@ -7,6 +7,9 @@ public class Hello_Test {
 		System.out.println("로컬에서 추가");
 		System.out.println("Git Hub Edit");
 		System.out.println("last local repo");
+		
+		/////
+		System.out.println("ver02 테스트");
 	
 	}
 }
